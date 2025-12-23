@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+venv/
+
+# System files
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Large Datasets
+TTPLA_Dataset/
