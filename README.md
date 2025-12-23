@@ -1,4 +1,4 @@
-# 🌿 Athena: AI Utility Vegetation Management (UVM) Platform
+# 🌿 Athena: AI Utility Vegetation Management Platform
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black&style=flat-square)
