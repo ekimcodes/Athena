@@ -15,7 +15,7 @@ Wildfires caused by power line failures are a catastrophic and recurring problem
 
 ## Used Dataset
 
-Used TTPLA: An Aerial-Image Dataset for Detection and Segmentation of Transmission Towers and Power Lines https://github.com/r3ab/ttpla_dataset. This dataset contains aerial images datset on transmission towers and power lines.
+Used TTPLA: An Aerial-Image Dataset for Detection and Segmentation of Transmission Towers and Power Lines from https://github.com/r3ab/ttpla_dataset. This dataset contains aerial images datset on transmission towers and power lines.
 
 ## Key Features
 
