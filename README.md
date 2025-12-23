@@ -51,11 +51,11 @@ Used TTPLA: An Aerial-Image Dataset for Detection and Segmentation of Transmissi
 
 ### 1. The Command Center
 *A dark-mode, futuristic map interface for monitoring grid health.*
-*![Dashboard Placeholder](https://via.placeholder.com/800x400?text=Athena+Command+Center)*
+*![showcase](image1.png)*
 
 ### 2. AI Inference
 *Micro-Inspector detecting a tree branch touching a high-voltage line.*
-*![Inference Placeholder](https://via.placeholder.com/800x400?text=U-Net+Segmentation+Output)*
+*![showcase](image2.png)*
 
 ---
 
