@@ -110,4 +110,4 @@ risk = check_intersection(mask['vegetation'], mask['cable'])
 
 ---
 
-Made with by **Edwin Kim**
+Made by **Edwin Kim**
