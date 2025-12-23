@@ -13,6 +13,10 @@
 
 Wildfires caused by power line failures are a catastrophic and recurring problem. Athena bridges the gap between **Macro-Scale Analysis** (Satellite/OSM) and **Micro-Scale precision** (Drone/Computer Vision) to provide utility operators with a unified, real-time risk assessment dashboard.
 
+## Used Dataset
+
+Used TTPLA: An Aerial-Image Dataset for Detection and Segmentation of Transmission Towers and Power Lines [(https://github.com/r3ab/ttpla_dataset)]. This dataset contains aerial images datset on transmission towers and power lines.
+
 ## Key Features
 
 ### Macro Scanner
