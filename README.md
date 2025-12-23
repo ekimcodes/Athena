@@ -1,7 +1,5 @@
 # 🌿 Athena: VS Code for Nature
 
-![Athena Banner](https://img.shields.io/badge/Status-Prototype_v1.0-2ea44f?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
