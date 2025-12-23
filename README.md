@@ -1,4 +1,4 @@
-# 🌿 Athena: VS Code for Nature
+# 🌿 Athena: AI-Powered Utility Vegetation Management (UVM) Platform
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black&style=flat-square)
@@ -9,19 +9,19 @@
 
 ---
 
-## 🚀 Mission
+## Mission
 
 Wildfires caused by power line failures are a catastrophic and recurring problem. Athena bridges the gap between **Macro-Scale Analysis** (Satellite/OSM) and **Micro-Scale precision** (Drone/Computer Vision) to provide utility operators with a unified, real-time risk assessment dashboard.
 
-## ⚡ Key Features
+## Key Features
 
-### 🌍 Phase 1: Macro Scanner
+### Macro Scanner
 *Identify risks from the sky.*
 - **Geospatial Intelligence**: Ingests power line data from **OpenStreetMap (OSM)** and satellite imagery.
 - **Risk Heatmaps**: Automatically calculates risk scores for thousands of assets based on location and historical data.
 - **Interactive Map**: A high-performance **React Leaflet** map visualizing critical hotspots across California.
 
-### 🚁 Phase 2: Micro Inspector
+### Micro Inspector
 *Validate threats with precision.*
 - **Drone Simulation**: Simulates a live drone inspection feed for high-risk zones.
 - **Computer Vision**: Deployed a custom **U-Net Semantic Segmentation** model (trained on the TTPLA dataset) to distinguish between:
@@ -32,7 +32,7 @@ Wildfires caused by power line failures are a catastrophic and recurring problem
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technologies |
 |-----------|--------------|
@@ -43,7 +43,7 @@ Wildfires caused by power line failures are a catastrophic and recurring problem
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### 1. The Command Center
 *A dark-mode, futuristic map interface for monitoring grid health.*
@@ -55,7 +55,7 @@ Wildfires caused by power line failures are a catastrophic and recurring problem
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.9+
@@ -106,4 +106,4 @@ risk = check_intersection(mask['vegetation'], mask['cable'])
 
 ---
 
-Made with ❤️ by **Edwin Kim**
+Made with by **Edwin Kim**
